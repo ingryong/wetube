@@ -1,2 +1,10 @@
+# Serverless directories
+.erverless
+
+
+# FuseBox cache
+.fusebox/
 node_modules
 package-lock.json
+.env
+uploads
