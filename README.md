@@ -11,7 +11,7 @@ Cloning Youtube
 - [ ] User Detail
 - [ ] Edit Profile
 - [ ] Change Password
-- [ ] Upload
+- [x] Upload
 - [ ] Video Detail
 - [ ] Edit Video
 
@@ -92,3 +92,5 @@ kookie 관리를 편하게 해준다.
 누군가 form을 채워서 전송한다면 이 form은 서버에 의해 받아져야 한다.
 만약 이름과 비밀번호를 입력해서 전송한다면 서버로 전송받아져야 한다.
 body로부터 정보를 얻을 수 있게 해준다.
+
+# multer 설치
